@@ -1,0 +1,37 @@
+{
+  "best_model": "Gradient Boosting Regressor",
+  "trained_date": "2026-10-15T14:15:49.207512",
+  "dataset_source": "Directorate of Economics and Statistics (DES India)",
+  "models": {
+    "Linear Regression": {
+      "MAE_tonnes_ha": 0.081,
+      "RMSE_tonnes_ha": 0.1131,
+      "R2_Score": 0.9825,
+      "MAE_kg_acre": 32.8,
+      "RMSE_kg_acre": 45.8,
+      "accuracy_pct": 98.19
+    },
+    "Random Forest Regressor": {
+      "MAE_tonnes_ha": 0.1008,
+      "RMSE_tonnes_ha": 0.1259,
+      "R2_Score": 0.9784,
+      "MAE_kg_acre": 40.8,
+      "RMSE_kg_acre": 50.9,
+      "accuracy_pct": 97.75
+    },
+    "Gradient Boosting Regressor": {
+      "MAE_tonnes_ha": 0.0582,
+      "RMSE_tonnes_ha": 0.0768,
+      "R2_Score": 0.992,
+      "MAE_kg_acre": 23.6,
+      "RMSE_kg_acre": 31.1,
+      "accuracy_pct": 98.7
+    }
+  },
+  "sample_size": 59,
+  "target_variable": "yield_tonnes_per_hectare",
+  "units": {
+    "tonnes_per_hectare": "t/ha",
+    "kg_per_acre": "kg/acre"
+  }
+}

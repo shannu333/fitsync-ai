@@ -1,0 +1,321 @@
+{
+  "state": "Andhra Pradesh",
+  "districts": [
+    {
+      "code": "EG",
+      "name": "East Godavari",
+      "name_te": "తూర్పు గోదావరి",
+      "headquarters": "Rajahmundry",
+      "agro_climatic_zone": "Godavari Delta Zone",
+      "mandals": [
+        {
+          "name": "Rajahmundry Rural",
+          "name_te": "రాజమండ్రి రూరల్",
+          "villages": ["Katheru", "Hukumpeta", "Torredu", "Vemagiri", "Morampudi", "Bommur"]
+        },
+        {
+          "name": "Kadiam",
+          "name_te": "కడియం",
+          "villages": ["Kadiam", "Madhavarayudupalem", "Veeravaram", "Jegurupadu", "Damireddypalli", "Muramanda"]
+        },
+        {
+          "name": "Korukonda",
+          "name_te": "కోరుకొండ",
+          "villages": ["Korukonda", "Gadarada", "Raghavapuram", "Kotikesavaram", "Buranugudem", "Narasapuram"]
+        },
+        {
+          "name": "Gokavaram",
+          "name_te": "గోకవరం",
+          "villages": ["Gokavaram", "Thantikonda", "Kamayyagunta", "Takurpalem", "Adivikamalapuram"]
+        },
+        {
+          "name": "Seethanagaram",
+          "name_te": "సీతానగరం",
+          "villages": ["Seethanagaram", "Raghudevapuram", "Muggalla", "Chinnakondepudi", "Bobbilanka"]
+        },
+        {
+          "name": "Anaparthi",
+          "name_te": "అనపర్తి",
+          "villages": ["Anaparthi", "Polamuru", "Ramavaram", "Dupperla", "Koppavaram"]
+        }
+      ]
+    },
+    {
+      "code": "WG",
+      "name": "West Godavari",
+      "name_te": "పశ్చిమ గోదావరి",
+      "headquarters": "Bhimavaram",
+      "agro_climatic_zone": "Godavari Delta Zone",
+      "mandals": [
+        {
+          "name": "Bhimavaram",
+          "name_te": "భీమవరం",
+          "villages": ["Dirusumarru", "Losarigutlapadu", "Chinamiram", "Rayalam", "Komadavole", "Annavaram"]
+        },
+        {
+          "name": "Tanuku",
+          "name_te": "తణుకు",
+          "villages": ["Tetali", "Mandapaka", "Velluru", "Duvva", "Penumantra"]
+        },
+        {
+          "name": "Palakollu",
+          "name_te": "పాలకొల్లు",
+          "villages": ["Goraganamudi", "Lanka", "Digamarru", "Poolapalli", "Sivadevuni Chikkala"]
+        },
+        {
+          "name": "Narasapuram",
+          "name_te": "నరసాపురం",
+          "villages": ["Chittavaram", "Rustumbada", "Seetharamapuram", "Kopparru", "Mogalthur"]
+        },
+        {
+          "name": "Undi",
+          "name_te": "ఉండి",
+          "villages": ["Undi", "Chilukuru", "Yandagandi", "Panduvva", "Cherukumilli", "Kovvali"]
+        },
+        {
+          "name": "Akividu",
+          "name_te": "ఆకివీడు",
+          "villages": ["Akividu", "Dharmapuram", "Kolleru", "Siddhapuram", "Kuppanapudi"]
+        }
+      ]
+    },
+    {
+      "code": "KKD",
+      "name": "Kakinada",
+      "name_te": "కాకినాడ",
+      "headquarters": "Kakinada",
+      "agro_climatic_zone": "North Coastal Zone",
+      "mandals": [
+        {
+          "name": "Samalkota",
+          "name_te": "సామర్లకోట",
+          "villages": ["Medapadu", "Husainpuram", "Navara", "Vetlapalem", "G. Ragampeta"]
+        },
+        {
+          "name": "Peddapuram",
+          "name_te": "పెద్దాపురం",
+          "villages": ["Kattamuru", "Divili", "Pulimeru", "Gorinta", "Chandanada"]
+        },
+        {
+          "name": "Pithapuram",
+          "name_te": "పిఠాపురం",
+          "villages": ["Madhavapuram", "Virava", "Chitrada", "Mangithurthi", "Uppada"]
+        },
+        {
+          "name": "Karapa",
+          "name_te": "కరప",
+          "villages": ["Karapa", "Gurajanapalli", "Nadakuduru", "Penuguduru", "Kongodu"]
+        }
+      ]
+    },
+    {
+      "code": "KRI",
+      "name": "Krishna",
+      "name_te": "కృష్ణా",
+      "headquarters": "Machilipatnam",
+      "agro_climatic_zone": "Krishna-Godavari Zone",
+      "mandals": [
+        {
+          "name": "Machilipatnam",
+          "name_te": "మచిలీపట్నం",
+          "villages": ["Chilakalapudi", "Arisepalli", "Gokavaram", "Karatlapadu", "Pothepalli", "Pedana"]
+        },
+        {
+          "name": "Gudivada",
+          "name_te": "గుడివాడ",
+          "villages": ["Billapadu", "Valivartipadu", "Mallayapalem", "Mandavalli", "Moturu"]
+        },
+        {
+          "name": "Vuyyuru",
+          "name_te": "వుయ్యూరు",
+          "villages": ["Vuyyuru", "Katuru", "Mudunuru", "Sayapuram", "Akunuru"]
+        },
+        {
+          "name": "Pamarru",
+          "name_te": "పామర్రు",
+          "villages": ["Pamarru", "Kurumaddali", "Zamin Golvepalli", "Komaravolu", "Pasumarru"]
+        },
+        {
+          "name": "Avanigadda",
+          "name_te": "అవనిగడ్డ",
+          "villages": ["Avanigadda", "Modumudi", "Puligadda", "Nagayalanka", "Koduru"]
+        }
+      ]
+    },
+    {
+      "code": "GUN",
+      "name": "Guntur",
+      "name_te": "గుంటూరు",
+      "headquarters": "Guntur",
+      "agro_climatic_zone": "Krishna Zone",
+      "mandals": [
+        {
+          "name": "Tenali",
+          "name_te": "తెనాలి",
+          "villages": ["Angalakuduru", "Nandivelugu", "Pinapadu", "Kolakaluru", "Chinaravuru"]
+        },
+        {
+          "name": "Mangalagiri",
+          "name_te": "మంగళగిరి",
+          "villages": ["Atmakuru", "Nowluru", "Nidamarry", "Kaza", "Bethapudi"]
+        },
+        {
+          "name": "Chebrolu",
+          "name_te": "చేబ్రోలు",
+          "villages": ["Chebrolu", "Vadlamudi", "Varanasi", "Narakoduru", "Pathareddypalem"]
+        },
+        {
+          "name": "Ponnur",
+          "name_te": "పొన్నూరు",
+          "villages": ["Dandiganapudi", "Mamillapalli", "Nidubrolu", "Chowdavaram", "Munipalle"]
+        }
+      ]
+    },
+    {
+      "code": "BAP",
+      "name": "Bapatla",
+      "name_te": "బాపట్ల",
+      "headquarters": "Bapatla",
+      "agro_climatic_zone": "Krishna Delta Zone",
+      "mandals": [
+        {
+          "name": "Bapatla",
+          "name_te": "బాపట్ల",
+          "villages": ["Appikatla", "Karlapalem", "Murukondapadu", "Jillellamudi", "Etheru"]
+        },
+        {
+          "name": "Repalle",
+          "name_te": "రేపల్లె",
+          "villages": ["Repalle", "Penpalem", "Peteru", "Isukapalle", "Kaikaram"]
+        },
+        {
+          "name": "Vemuru",
+          "name_te": "వేమూరు",
+          "villages": ["Vemuru", "Chavali", "Jampani", "Kuchellapadu", "Varahapuram"]
+        }
+      ]
+    },
+    {
+      "code": "NEL",
+      "name": "Nellore (SPSR Nellore)",
+      "name_te": "నెల్లూరు",
+      "headquarters": "Nellore",
+      "agro_climatic_zone": "Southern Zone",
+      "mandals": [
+        {
+          "name": "Kovur",
+          "name_te": "కోవూరు",
+          "villages": ["Padugupadu", "Inamadugu", "Gangapatnam", "Paturu", "Veguru"]
+        },
+        {
+          "name": "Buchireddypalem",
+          "name_te": "బుచ్చిరెడ్డిపాలెం",
+          "villages": ["Buchireddypalem", "Vavveru", "Damaramadugu", "Rebala", "Minagallu"]
+        },
+        {
+          "name": "Indukurpet",
+          "name_te": "ఇందుకూరుపేట",
+          "villages": ["Indukurpet", "Mypadu", "Kudithipalem", "Gangapatnam", "Leburu"]
+        },
+        {
+          "name": "Allur",
+          "name_te": "అల్లూరు",
+          "villages": ["Allur", "Isakapalli", "Singapet", "Batrakagollu", "North Mopur"]
+        }
+      ]
+    },
+    {
+      "code": "SRI",
+      "name": "Srikakulam",
+      "name_te": "శ్రీకాకుళం",
+      "headquarters": "Srikakulam",
+      "agro_climatic_zone": "North Coastal Zone",
+      "mandals": [
+        {
+          "name": "Srikakulam Rural",
+          "name_te": "శ్రీకాకుళం రూరల్",
+          "villages": ["Arasavalli", "Singupuram", "Peddapadu", "Challavanipeta", "Pathasrikakulam"]
+        },
+        {
+          "name": "Narasannapeta",
+          "name_te": "నరసన్నపేట",
+          "villages": ["Polaki", "Mabagam", "Tilaru", "Madapam", "Yaragada"]
+        },
+        {
+          "name": "Amadalavalasa",
+          "name_te": "ఆమదాలవలస",
+          "villages": ["Thogaram", "Kothavalasa", "Chintada", "Doolipeta", "Kattulakaviti"]
+        }
+      ]
+    },
+    {
+      "code": "VZM",
+      "name": "Vizianagaram",
+      "name_te": "విజయనగరం",
+      "headquarters": "Vizianagaram",
+      "agro_climatic_zone": "North Coastal Zone",
+      "mandals": [
+        {
+          "name": "Vizianagaram Rural",
+          "name_te": "విజయనగరం రూరల్",
+          "villages": ["Dwarapudi", "Gunkalam", "Kothapet", "Venugopalapuram", "Rakirapalle"]
+        },
+        {
+          "name": "Bobbili",
+          "name_te": "బొబ్బిలి",
+          "villages": ["Alajangi", "Pakki", "Piridi", "Mettavalasa", "Gollapalli"]
+        },
+        {
+          "name": "Cheepurupalli",
+          "name_te": "చీపురుపల్లి",
+          "villages": ["Garividi", "Karlam", "Perapi", "Viswanadhapuram", "Itikarlapadu"]
+        }
+      ]
+    },
+    {
+      "code": "KUR",
+      "name": "Kurnool",
+      "name_te": "కర్నూలు",
+      "headquarters": "Kurnool",
+      "agro_climatic_zone": "Scarce Rainfall Zone",
+      "mandals": [
+        {
+          "name": "Kurnool Rural",
+          "name_te": "కర్నూలు రూరల్",
+          "villages": ["Ulchala", "Gargeyapuram", "Peddapadu", "Nidzur", "Dinnedevarapadu"]
+        },
+        {
+          "name": "Nandyal",
+          "name_te": "నంద్యాల",
+          "villages": ["Mahanandi", "Chabolu", "Ayyaluru", "Mitnala", "Thimmapuram"]
+        },
+        {
+          "name": "Allagadda",
+          "name_te": "ఆళ్లగడ్డ",
+          "villages": ["Rudravaram", "Ahobilam", "Gopalapuram", "Yadiki", "Chagalamarri"]
+        }
+      ]
+    }
+  ],
+  "common_rice_varieties": [
+    {"name": "BPT 5204 (Samba Mahsuri)", "duration_days": 150, "type": "Fine Grain", "popular_zones": ["Godavari Delta", "Krishna", "Nellore"]},
+    {"name": "MTU 1010 (Cottondora Sannalu)", "duration_days": 120, "type": "Short Duration", "popular_zones": ["All AP"]},
+    {"name": "MTU 1061 (Indra)", "duration_days": 135, "type": "Waterlogging Tolerant", "popular_zones": ["Godavari", "Krishna"]},
+    {"name": "MTU 1121 (Sri Dhruthi)", "duration_days": 125, "type": "Blast Resistant", "popular_zones": ["Godavari Delta"]},
+    {"name": "RGL 2537 (Srikakulam Sannalu)", "duration_days": 135, "type": "Fine Grain", "popular_zones": ["North Coastal AP"]},
+    {"name": "NLR 34449 (Nellore Mahsuri)", "duration_days": 130, "type": "Blast Resistant", "popular_zones": ["Nellore", "Southern Zone"]},
+    {"name": "Swarna (MTU 7029)", "duration_days": 150, "type": "High Yielding", "popular_zones": ["Godavari", "Krishna"]}
+  ],
+  "soil_types": [
+    {"id": "alluvial", "name": "Alluvial Soil (ఒండ్రు నేల)", "description": "Highly fertile delta soil, optimal for rice"},
+    {"id": "black_cotton", "name": "Black Clay / Cotton Soil (నల్ల రేగడి నేల)", "description": "High moisture retention, suited for deep-rooted crops and paddy"},
+    {"id": "red_sandy_loam", "name": "Red Loam / Sandy Soil (ఎర్ర నేల)", "description": "Well-drained, requires consistent canal/borewell irrigation"},
+    {"id": "coastal_saline", "name": "Coastal Saline Soil (తీరప్రాంత ఉప్పు నేల)", "description": "Needs salinity-tolerant rice varieties like MTU 1061"}
+  ],
+  "irrigation_sources": [
+    {"id": "canal", "name": "Canal Irrigation (కాలువ నీరు - Godavari/Krishna/Pennar)"},
+    {"id": "borewell", "name": "Borewell / Tube Well (బోరుబావి)"},
+    {"id": "tank_rainfed", "name": "Irrigation Tank / Rainfed (చెరువు / వర్షాధారం)"},
+    {"id": "lift", "name": "Lift Irrigation / River Basin (లిఫ్ట్ ఇరిగేషన్)"}
+  ]
+}
